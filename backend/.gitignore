@@ -1,7 +1,6 @@
 node_modules
 public/*
-!public/logotipos/
-dist
+whatstalk
 !public/.gitkeep
 .env
 .env.test
